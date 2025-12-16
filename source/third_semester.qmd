@@ -27,7 +27,7 @@ The total workload of the internship is 29 CP. This typically corresponds to an 
 The final grade for the external industry or government project will be given by your ifgi supervisor based on the written project report with self-assessment (~15 pages). If the external supervisor writes a short evaluation report, this will be taken into account.
 
 
-## The learning/internship agreement
+# The learning/internship agreement
 Before you start the external semester or internship, you need to set up a learning/internship agreement that contains the following information:
 
 - your personal information (name, matriculation number, postal address, email…)
@@ -42,7 +42,7 @@ When doing an internship or when you work on a research project during the exter
 - and due date of the project/internship report
 
 
-## The Wrap-up seminar
+# The Wrap-up seminar
 
 To complete the module 8 or 9, it is necessary to take part in the wrap-up seminar which usually extends over half a day. Attendance is mandatory. The wrap-up seminar will be held twice per semester. The date will be announced on mattermost and in SLCM where you have to register for the wrap-up seminar.
 During this seminar, students give presentations (10 mins each) reflecting on the course of their internships/external studies and exchange their experiences.
