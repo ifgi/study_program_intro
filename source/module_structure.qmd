@@ -1,3 +1,7 @@
+---
+toc-depth: 4
+---
+
 # Module structure
 
 The total workload of the study program is 120 credit points (ECTS) distributed over 8 modules and 4 semesters. The third semester is reserved for doing an external semester (e.g., study abroad or conduct an internship) and in the fourth semester you will complete and defend your Master thesis. This means that the actual course program (lectures, seminars, study projects etc.) is completed in the first two semesters. Each semester is intended to contain \~30 ECTS, in total you will receive:
