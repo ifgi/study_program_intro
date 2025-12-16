@@ -12,6 +12,8 @@ website:
         text: Home
       - href: source/module_structure.qmd
         text: Module structure
+      - href: source/third_semester.qmd
+        text: External semester
       - href: source/course_booking_system.qmd
         text: Course booking system
       - href: source/individual_program.qmd
