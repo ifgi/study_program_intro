@@ -6,7 +6,7 @@ The total workload of the study program is 120 credit points (ECTS) distributed 
 -   30 ECTS for your external semester (3rd semester)
 -   30 ECTS for writing and defending your Master thesis (4th semester)
 
-**The following explains how to choose courses in the first two semesters in order to collect the required 60 ECTS of coursework. For more information on the external semester see [external semester]third_semester.html)**
+**The following explains how to choose courses in the first two semesters in order to collect the required 60 ECTS of coursework. For more information on the external semester see [external semester](third_semester.html)**
 
 ![](./module_overview.png){fig-align="center"}
 
