@@ -24,6 +24,7 @@ format:
     theme: [flatly,theme.scss]
     css: styles.css
     toc: true
+    toc-depth: 2
     link-external-newwindow: true
     link-external-icon: true
 
