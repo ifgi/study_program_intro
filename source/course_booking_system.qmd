@@ -8,7 +8,7 @@ toc: false
 
 To receive the ECTS at the end of each semester for the courses you have attended you need to enroll in those courses in the University´s course booking system (SLCM). You can find it [here](https://service.uni-muenster.de/go). There is a specific period for enrolling in courses during the semester.
 
-The figures and descriptions below show the workflow **in the old booking system**. This **cannot be used for booking courses** anymore. However, the course overview can still be used to see which courses are available in what module. It is used here to showcase an example, because this actually gives a better overview than the new system.
+The figures and descriptions below show the workflow **in the old booking system**. This **cannot be used for booking courses** anymore. However, the course overview can still be used to see which courses are available in what module. It is used here to showcase an example, because it actually gives a better overview than the new system.
 
 ![](qispos.PNG){fig-align="center"}
 
